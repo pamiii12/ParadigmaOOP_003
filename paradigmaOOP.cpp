@@ -18,3 +18,10 @@ public:
 		return a + b;
 	}
 };
+class pelajar : public orang {
+public:
+	string sekolah;
+
+	pelajar(string pNama, string pSekolah) :
+		
+};
