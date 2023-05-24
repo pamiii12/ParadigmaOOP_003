@@ -19,3 +19,11 @@ public:
 
 }; 
 
+class dokter {
+public:
+	string nama;
+	vector<pasien*> daftar_pasien;
+
+
+};
+
