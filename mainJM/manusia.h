@@ -12,6 +12,6 @@ class manusia {
 	~manusia() {
 		cout << name << " mati\n";
 	}
-};
+}; 
 
 #endif
